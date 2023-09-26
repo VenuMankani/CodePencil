@@ -1,0 +1,8 @@
+.top-pane {
+    background-color: hsl(220, 1%, 42%);
+  }
+  
+  .pane {
+    height: 50vh;
+    display: flex;
+  }
